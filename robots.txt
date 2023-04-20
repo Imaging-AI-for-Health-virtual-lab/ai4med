@@ -1,0 +1,1 @@
+Sitemap: /ai4med/sitemap.xml
